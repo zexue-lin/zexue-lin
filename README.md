@@ -18,8 +18,22 @@ Welcome to my profile!
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zexue-lin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zexue-lin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats-fast)
 
 ## 💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zexue-lin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zexue-lin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats-fast)
+
+
+## 🛠️ Tech Stack
+![My Skills](https://skillicons.dev/icons?i=php,html,css,js,ts,vue,nodejs,git,linux,vscode)
+
+
+### 📚 Currently Learning
+- **AI & LLMs** 🤖
+- **System Design** ⚙️
+- **Open Source Contribution** 🌍
+
+
+
+![Visitors](https://komarev.com/ghpvc/?username=zexue-lin&color=blueviolet&style=flat-square)
